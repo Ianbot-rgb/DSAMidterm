@@ -73,3 +73,5 @@ In order to sync your activities from Visual Studio code to your chosen Github r
     Lastly, click on sync changes. After loading, you can check your github repository if the sync is successful
 
     ![](pictures/sync%20changes.png)
+    
+ feat: Add responsive header and navigation
