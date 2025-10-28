@@ -4,7 +4,7 @@
 2. Click Install.
 
     ![](<pictures/click install.png>)
-3. Download the most appropriate one for your setup.
+3. Download the installer that matches your operating system.
 
     ![](pictures/Installer.png)
     4. Run the installer, then press next until it starts downloading.
